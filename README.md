@@ -1,3 +1,3 @@
-# java
-All Java
-All Java Programs
+# Python
+All Python
+All Python Programs
